@@ -2,6 +2,7 @@
 
 For our first project, we made a simple text adventure game using the Unity UI. My game presents a narrative to the player, offering players options and then adjusting the narrative as they progress based on their decisions, with multiple possible endings. This game does not require much coding: beyond a basic script or two to manage your game objects, most of your work can be focused simply on creating the UI elements you need and setting them up properly in the editor. 
 
+If you are looking to play this game you can. All you have to do is download the whole Runnable folder. Then you can run the Project1A.exe file and enjoy the game.
 
 Part A Reequirements)
 
